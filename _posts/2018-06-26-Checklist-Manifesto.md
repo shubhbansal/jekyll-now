@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Checklist Manifesto"
+date:   2016-10-27
 excerpt_separator: <!--more-->
 
 tags: Books
@@ -17,23 +18,25 @@ Another key idea is to “push the power of decision making out to the periphery
 
 The larger lesson is provided by the construction industry example which provides two sets of checklists:
 
-Make sure that the dumb but critical stuff is not overlooked
-Checks to ensure that people talk and coordinate and take responsibility ( they had a whole chart which mentioned who was supposed to meet whom after each step and discuss what before proceeding. Also a system where even frontline worker could raise an issue and email all the concerned)
+1. Make sure that the dumb but critical stuff is not overlooked
+2. Checks to ensure that people talk and coordinate and take responsibility ( they had a whole chart which mentioned who was supposed to meet whom after each step and discuss what before proceeding. Also a system where even frontline worker could raise an issue and email all the concerned)
+
 Some quick anecdotes:
 
-Surgical staff was required to take a minute at the beginning and make sure that everyone knew everyone’s names – > this was shown to improve team work during the operation substantially.
-Also in a team meeting -> it is better if everyone is given an opportunity to make their case turn by turn -> allows people to open up, feel more confident
-The nurses were supposed to run through the checklist ( shifting the power) and would call out each item
+* Surgical staff was required to take a minute at the beginning and make sure that everyone knew everyone’s names – > this was shown to improve team work during the operation substantially.
+* Also in a team meeting -> it is better if everyone is given an opportunity to make their case turn by turn -> allows people to open up, feel more confident
+* The nurses were supposed to run through the checklist ( shifting the power) and would call out each item
+
 Tips on making the checklists
 
-Decide whether it is Read-Do or Do-Confirm checklist
-Should indicate clear pause point when it is supposed to be used.
-Should have 5-9 items
-Keep only killer items . Ideally should not take b/w 60-90 sec to go through it
-Wording should be exact and simple
-Should contain terminology of the profession
-Sentence case, Helvetica
-Should be tested in the real world and iterated
-IMP: These are not comprehensive How-to guides , but simple quick tools to help expert professionals. Should only contain steps which are easily missed by professionals
-TIP: To identify the killer items for checklists- >Identify the key items and how big a impact they have and how frequently are they missed
-It should not encourage mindless automation, but allow the expert to get away with the dumb-stuff and allow him to focus on the harder problems
+* Decide whether it is Read-Do or Do-Confirm checklist
+* Should indicate clear pause point when it is supposed to be used.
+* Should have 5-9 items
+* Keep only killer items . Ideally should not take b/w 60-90 sec to go through it
+* Wording should be exact and simple
+* Should contain terminology of the profession
+* Sentence case, Helvetica
+* Should be tested in the real world and iterated
+* IMP: These are not comprehensive How-to guides , but simple quick tools to help expert professionals. Should only contain steps which are easily missed by professionals
+* TIP: To identify the killer items for checklists- >Identify the key items and how big a impact they have and how frequently are they missed
+* It should not encourage mindless automation, but allow the expert to get away with the dumb-stuff and allow him to focus on the harder problems
