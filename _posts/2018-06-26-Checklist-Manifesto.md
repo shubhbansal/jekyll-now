@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Checklist Manifesto"
-tags: Book notes
+tags: Books
 ---
 
 Author: Atul Gawande
