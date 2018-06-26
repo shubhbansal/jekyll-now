@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Checklist Manifesto"
+excerpt_separator: <!--more-->
+
 tags: Books
 ---
 
@@ -9,6 +11,7 @@ Author: Atul Gawande
 Information has increases exponentially along-with the complexity of tasks involved. Limitation on human memory and concentration causes us to make seemingly stupid errors.
 
 The key idea is to identify those aspects of the tasks which are simple/dumb but success depends heavily on their correct execution. Checklists can then be ensured to get these things done.
+<!--more-->
 
 Another key idea is to “push the power of decision making out to the periphery away from the centre”. You need to make sure that they talk to each other and take responsiblity.This is because command and control system does not work in critical complex situations as often complete information is not available and decisions have to be made quick.
 
