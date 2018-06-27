@@ -7,9 +7,12 @@ excerpt_separator: <!--more-->
 tags: presentations
 ---
 Venue: [Heidelberg.AI](http://heidelberg.ai/), Heidelberg, Germany
+
 [Talk Slides]({{ "/images/DeepNilm_22022018.pdf" | absolute_url }})
 
-As deep learning methods mature, they increasingly find their way into real-world applications. One exciting area of application is the energy sector and this meetup will have Discovergy - a company that works on making private energy consumption and generation more transparent and controllable - elaborate on how they employ machine learning methods to this end.
+As deep learning methods mature, they increasingly find their way into real-world applications. One exciting area of application is the energy sector and in this meetup we will elaborate on how we employ machine learning methods at [Discovergy](http://discovergy.com/) to make energy consumption and generation more transparent and controllable.
+
+<!--more-->
 
 Research in non-intrusive load monitoring aims to infer the appliance level energy consumption from the aggregate building consumption data reported by smart meters. Most of the work in the field has focused on identifying events in the time series using hand engineered features. This process can be time consuming and often proves insufficient in capturing the information necessary to identify all the different appliances.
 
