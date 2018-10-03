@@ -29,7 +29,9 @@ From death to immortality”
 
 For me, these lines best summarise his complete life. 
 
-In fact there is a new book on Gandhi by Guha. Its called- Gandhi: The Years That Changed the World, 1914-1948. If someone here is in a gifting mode- you know what to send to my address :) 
+
+
+PS: In fact there is a new book on Gandhi by Guha. Its called - Gandhi: The Years That Changed the World, 1914-1948. If someone here is in a gifting mode- you know what to send to my address :) 
 
 
 
