@@ -21,7 +21,7 @@ From what began an attempt in trying to understand the reason for Gandhi’s foc
 
 I wish I would have been alive at his time, so that I could directly question him, challenge his ideas and hear his stories.  One of qualities that I admire every time when I read an account on him was his openness to criticism, willingness to discuss contradictory ideas and adopt them if they made sense - so I think he would have been open to my nagging :) It would have been so cool ! But since that’s not an option, I will continue to converse with him through books
 
-The other time when I visited Birla Bhavan in Delhi, I came across these lines which apparently he used during his prayer sessions.
+The other time when I visited Birla Bhavan in Delhi, I came across these lines which apparently he used during his prayer sessions:
 
 *“Lead me from untruth to truth, 
 From darkness to light, 
