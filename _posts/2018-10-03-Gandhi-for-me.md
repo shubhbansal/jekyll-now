@@ -1,5 +1,3 @@
-My Gandhi 
-
 One of the people that I have never had a chance to ever meet and still be heavily intrigued and and influenced by is Gandhi. As a child, I remember being asked to write up an essay on Gandhi. In fact there used to be a book, maybe it still comes out, which had all the generic essays and one of them was on Gandhi. It started with when he was born, his parents, a little bit about his work and then his death - maybe a page or two in all.  As a ritual, I mugged that up to vomit it out verbatim in the exam. The perception in my head was - nice guy, cool stuff, but  I need to get 10/10 on the exam.
 
 
